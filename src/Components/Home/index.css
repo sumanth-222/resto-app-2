@@ -1,0 +1,21 @@
+.home-container {
+  height: 100vh;
+}
+
+.categories_list {
+  display: flex;
+  justify-content: space-around;
+}
+
+.category-container {
+  list-style: none;
+}
+
+.main {
+  height: 100vh;
+  background-color: white;
+}
+.loader {
+  text-align: center;
+  margin-top: 20%;
+}
